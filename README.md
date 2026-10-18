@@ -19,7 +19,7 @@ The screenshots below are stored in this repository, so GitHub will render them 
 
 ### 1. Overview Dashboard
 
-![Nike Business Dashboard — Overview](Documentation/Screenshots/01_overview.png)
+![Nike Business Dashboard — Overview](Screenshots/01_overview.png)
 
 *High-level KPIs and a consolidated view of retail sales, regions, product categories, channels, stores, campaigns, and inventory.*
 
