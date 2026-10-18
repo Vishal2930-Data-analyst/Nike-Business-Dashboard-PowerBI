@@ -1,0 +1,335 @@
+{
+ "Total Net Sales": 3203461.28,
+ "Total Units Sold": 32160,
+ "Total Orders": 21232,
+ "All Transactions": 25000,
+ "Average Order Value": 150.8789,
+ "Average Selling Price": 99.6101,
+ "Total Cost of Goods Sold": 1546853.11,
+ "Gross Profit": 1656608.17,
+ "Gross Profit Margin %": 0.517131,
+ "Total Discount Amount": 192049.39,
+ "Discount Rate %": 0.05656,
+ "Active Customers": 5835,
+ "Registered Customers": 6000,
+ "Sales per Store": 160173.06,
+ "Return Rate %": 0.10044,
+ "Monthly": {
+  "1": {
+   "net": 281417.18,
+   "units": 2787.0,
+   "gp": 145547.62,
+   "orders": 1824.0,
+   "cust": 1575.0,
+   "aov": 154.2857
+  },
+  "2": {
+   "net": 249737.33,
+   "units": 2512.0,
+   "gp": 128856.42,
+   "orders": 1681.0,
+   "cust": 1485.0,
+   "aov": 148.5647
+  },
+  "3": {
+   "net": 273312.73,
+   "units": 2719.0,
+   "gp": 141283.86,
+   "orders": 1788.0,
+   "cust": 1561.0,
+   "aov": 152.8595
+  },
+  "4": {
+   "net": 250728.44,
+   "units": 2543.0,
+   "gp": 128856.02,
+   "orders": 1699.0,
+   "cust": 1466.0,
+   "aov": 147.5741
+  },
+  "5": {
+   "net": 277900.85,
+   "units": 2707.0,
+   "gp": 144488.62,
+   "orders": 1754.0,
+   "cust": 1523.0,
+   "aov": 158.4383
+  },
+  "6": {
+   "net": 271393.97,
+   "units": 2785.0,
+   "gp": 140637.24,
+   "orders": 1835.0,
+   "cust": 1584.0,
+   "aov": 147.8986
+  },
+  "7": {
+   "net": 269469.81,
+   "units": 2691.0,
+   "gp": 140055.65,
+   "orders": 1766.0,
+   "cust": 1551.0,
+   "aov": 152.5877
+  },
+  "8": {
+   "net": 280193.49,
+   "units": 2790.0,
+   "gp": 145961.42,
+   "orders": 1836.0,
+   "cust": 1587.0,
+   "aov": 152.6108
+  },
+  "9": {
+   "net": 252277.32,
+   "units": 2549.0,
+   "gp": 129785.06,
+   "orders": 1726.0,
+   "cust": 1527.0,
+   "aov": 146.163
+  },
+  "10": {
+   "net": 263843.91,
+   "units": 2710.0,
+   "gp": 136030.32,
+   "orders": 1769.0,
+   "cust": 1534.0,
+   "aov": 149.1486
+  },
+  "11": {
+   "net": 261459.44,
+   "units": 2662.0,
+   "gp": 135753.31,
+   "orders": 1750.0,
+   "cust": 1503.0,
+   "aov": 149.4054
+  },
+  "12": {
+   "net": 271726.81,
+   "units": 2705.0,
+   "gp": 139352.63,
+   "orders": 1804.0,
+   "cust": 1563.0,
+   "aov": 150.6246
+  }
+ },
+ "Sales MoM Growth % (Dec vs Nov)": 0.039269,
+ "Units MoM Growth % (Dec vs Nov)": 0.016153,
+ "Active Customers MoM Growth % (Dec vs Nov)": 0.03992,
+ "AOV MoM Growth % (Dec vs Nov)": 0.008161,
+ "Gross Profit MoM Growth % (Dec vs Nov)": 0.026514,
+ "By Category": {
+  "Footwear": [
+   1827564.41,
+   0.570497
+  ],
+  "Apparel": [
+   818622.83,
+   0.255543
+  ],
+  "Accessories": [
+   370852.62,
+   0.115766
+  ],
+  "Equipment": [
+   186421.42,
+   0.058194
+  ]
+ },
+ "By Region": {
+  "North America": [
+   807001.57,
+   0.251916
+  ],
+  "Europe": [
+   791162.87,
+   0.246971
+  ],
+  "Asia Pacific": [
+   676570.72,
+   0.2112
+  ],
+  "Middle East & Africa": [
+   568139.51,
+   0.177352
+  ],
+  "Latin America": [
+   360586.61,
+   0.112562
+  ]
+ },
+ "By Channel": {
+  "Retail Stores": [
+   1148856.29,
+   0.35863
+  ],
+  "Online": [
+   897535.59,
+   0.280177
+  ],
+  "Nike App": [
+   534711.79,
+   0.166917
+  ],
+  "Wholesale": [
+   458665.74,
+   0.143178
+  ],
+  "Others": [
+   163691.87,
+   0.051098
+  ]
+ },
+ "Top 5 Products": [
+  [
+   "Tech Fleece Runner 2",
+   "Footwear",
+   94203.82,
+   460,
+   56272.22
+  ],
+  [
+   "Pegasus Court 11",
+   "Apparel",
+   75081.67,
+   371,
+   44733.87
+  ],
+  [
+   "Dunk Fitness Gear 5",
+   "Footwear",
+   71520.84,
+   401,
+   41305.49
+  ],
+  [
+   "Metcon Training Pant 6",
+   "Equipment",
+   59547.27,
+   413,
+   27609.98
+  ],
+  [
+   "Pegasus Gym Bag 9",
+   "Apparel",
+   53708.5,
+   379,
+   27504.44
+  ]
+ ],
+ "Top 5 Stores": [
+  [
+   "Tokyo Shibuya",
+   "Tokyo",
+   "Japan",
+   306543.28,
+   3094
+  ],
+  [
+   "Dubai Mall",
+   "Dubai",
+   "United Arab Emirates",
+   306111.73,
+   3036
+  ],
+  [
+   "London Oxford Street",
+   "London",
+   "United Kingdom",
+   302814.14,
+   3099
+  ],
+  [
+   "New York Flagship",
+   "New York",
+   "United States",
+   301551.82,
+   3049
+  ],
+  [
+   "Cape Town Store",
+   "Cape Town",
+   "South Africa",
+   133565.28,
+   1312
+  ]
+ ],
+ "Active Customers by Gender %": {
+  "Female": 0.446615,
+  "Male": 0.481748,
+  "Non-binary": 0.031877,
+  "Prefer not to say": 0.03976
+ },
+ "Active Customers by Age %": {
+  "18-24": 0.227249,
+  "25-34": 0.334533,
+  "35-44": 0.226221,
+  "45-54": 0.13419,
+  "55+": 0.077806
+ },
+ "Revenue by Segment": {
+  "Loyal": 869414.0,
+  "New": 628395.63,
+  "Regular": 1391618.37,
+  "VIP": 314033.28
+ },
+ "Campaign Spend": 1319004.8,
+ "Attributed Revenue": 5380376.14,
+ "ROAS (portfolio)": 4.079118,
+ "CTR": 0.029067,
+ "Conversion Rate": 0.053154,
+ "CPA": 21.6113,
+ "Attributed Orders": 50099,
+ "Top 5 Campaigns by Attributed Revenue": [
+  [
+   "Back to Sport",
+   "Paid Search",
+   160124.7,
+   882164.77,
+   5.51
+  ],
+  [
+   "Running Series",
+   "YouTube",
+   273421.52,
+   819030.53,
+   3.0
+  ],
+  [
+   "Move More",
+   "Social Media",
+   241968.7,
+   734316.57,
+   3.03
+  ],
+  [
+   "Holiday Performance",
+   "Paid Search",
+   135307.64,
+   647070.68,
+   4.78
+  ],
+  [
+   "Jordan Collection",
+   "Influencers",
+   94141.74,
+   510360.25,
+   5.42
+  ]
+ ],
+ "Current Stock": 152430,
+ "Inventory Value": 7251034.2,
+ "Inventory Status Records": {
+  "In Stock": 2259,
+  "Low Stock": 734,
+  "Out of Stock": 7
+ },
+ "Inventory Status %": {
+  "In Stock": 0.753,
+  "Low Stock": 0.244667,
+  "Out of Stock": 0.002333
+ },
+ "Avg Recycled Material %": 0.444317,
+ "Total Carbon Emissions": 14193.11,
+ "Total Water Usage": 159139.1,
+ "Sustainable Units Sold": 2458121
+}
