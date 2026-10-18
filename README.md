@@ -26,7 +26,7 @@ The screenshots below are stored in this repository, so GitHub will render them 
 <details>
 <summary><strong>2. Sales Analysis</strong></summary>
 
-![Sales Analysis dashboard](Documentation/Screenshots/02_sales.png)
+![Sales Analysis dashboard](Screenshots/02_sales.png)
 
 *Monthly net sales and gross profit, month-over-month growth, channel contribution, and regional performance.*
 </details>
@@ -34,7 +34,7 @@ The screenshots below are stored in this repository, so GitHub will render them 
 <details>
 <summary><strong>3. Product Performance</strong></summary>
 
-![Product Performance dashboard](Documentation/Screenshots/03_products.png)
+![Product Performance dashboard](Screenshots/03_products.png)
 
 *Category mix, sales by product line, gross margin by subcategory, and product rankings.*
 </details>
