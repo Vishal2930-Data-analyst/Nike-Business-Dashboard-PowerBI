@@ -129,21 +129,12 @@ Read the supporting reports: [Data Quality Report](Documentation/Data_Quality_Re
 ├── Data/                         # Synthetic CSV datasets and data dictionary
 ├── PowerBI/
 │   ├── Nike_Business_Dashboard.pbip
-│   ├── Nike_Business_Dashboard.Report/
-│   ├── Nike_Business_Dashboard.SemanticModel/
-│   ├── DAX_Measures.txt
-│   ├── Power_Query_M_Code.txt
-│   ├── Data_Model.md
-│   ├── Dashboard_Layout.md
-│   └── Design/
+│    
 ├── Dashboard_Preview/
 │   ├── index.html                # Preview using the assets folder
 │   ├── Nike_Dashboard_Preview_Standalone.html
 │   └── assets/
-├── Documentation/
-│   ├── Screenshots/              # Dashboard screenshots shown above
-│   ├── Data_Quality_Report.md
-│   └── QA_Report.md
+├── Screenshots/                  # Dashboard screenshots shown above
 ├── Scripts/                      # Build, validation, and QA scripts
 ├── START_HERE.txt
 ├── .gitignore
