@@ -42,7 +42,7 @@ The screenshots below are stored in this repository, so GitHub will render them 
 <details>
 <summary><strong>4. Customer Insights</strong></summary>
 
-![Customer Insights dashboard](Documentation/Screenshots/04_customers.png)
+![Customer Insights dashboard](Screenshots/04_customers.png)
 
 *Customer segments, loyalty tiers, gender and age profiles, and customer-country revenue.*
 </details>
@@ -50,43 +50,43 @@ The screenshots below are stored in this repository, so GitHub will render them 
 <details>
 <summary><strong>5. Store Performance</strong></summary>
 
-![Store Performance dashboard](Documentation/Screenshots/05_stores.png)
+![Store Performance dashboard](Screenshots/05_stores.png)
 </details>
 
 <details>
 <summary><strong>6. Marketing Campaigns</strong></summary>
 
-![Marketing Campaign Performance dashboard](Documentation/Screenshots/06_marketing.png)
+![Marketing Campaign Performance dashboard](Screenshots/06_marketing.png)
 </details>
 
 <details>
 <summary><strong>7. Inventory Status</strong></summary>
 
-![Inventory Status dashboard](Documentation/Screenshots/07_inventory.png)
+![Inventory Status dashboard](Screenshots/07_inventory.png)
 </details>
 
 <details>
 <summary><strong>8. Sustainability</strong></summary>
 
-![Sustainability dashboard](Documentation/Screenshots/08_sustainability.png)
+![Sustainability dashboard](Screenshots/08_sustainability.png)
 </details>
 
 <details>
 <summary><strong>9. Reports</strong></summary>
 
-![Reports dashboard](Documentation/Screenshots/09_reports.png)
+![Reports dashboard](Screenshots/09_reports.png)
 </details>
 
 <details>
 <summary><strong>10. Product Details — Drill-through</strong></summary>
 
-![Product Details drill-through dashboard](Documentation/Screenshots/10_product_details.png)
+![Product Details drill-through dashboard](Screenshots/10_product_details.png)
 </details>
 
 <details>
 <summary><strong>11. Store Details — Drill-through</strong></summary>
 
-![Store Details drill-through dashboard](Documentation/Screenshots/11_store_details.png)
+![Store Details drill-through dashboard](Screenshots/11_store_details.png)
 </details>
 
 ---
